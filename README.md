@@ -9,4 +9,4 @@ This Dashboard we are proving this features :
 
 4. How many calls are made by the caretaker to the patients in a day.
 
-5. Edit , Delete and Pagination (extra things)
+5. Edit , Delete and Pagination 
