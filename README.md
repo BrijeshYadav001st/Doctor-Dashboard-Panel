@@ -8,3 +8,5 @@ This Dashboard we are proving this features :
 3. How much weekly target is left in terms of readings. 
 
 4. How many calls are made by the caretaker to the patients in a day.
+
+5. Edit , Delete and Pagination (extra things)
